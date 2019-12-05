@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scream-Me-Up-Scotty", "Scream-Me-Up-Scotty.csproj", "{A07818FA-061E-A0E7-D03B-2C80C349E7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scream-Me-Up-Scotty.Editor", "Scream-Me-Up-Scotty.Editor.csproj", "{87DD2E4F-054D-C8D9-3C88-0799C8D5F62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07818FA-061E-A0E7-D03B-2C80C349E7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07818FA-061E-A0E7-D03B-2C80C349E7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07818FA-061E-A0E7-D03B-2C80C349E7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07818FA-061E-A0E7-D03B-2C80C349E7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DD2E4F-054D-C8D9-3C88-0799C8D5F62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DD2E4F-054D-C8D9-3C88-0799C8D5F62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DD2E4F-054D-C8D9-3C88-0799C8D5F62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DD2E4F-054D-C8D9-3C88-0799C8D5F62E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
